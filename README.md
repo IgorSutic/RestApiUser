@@ -14,3 +14,15 @@ SETUP DRF:
       - python3 manage.py makemigrations
       - python3 manage.py migrate
       - python3 manage.py runserver
+
+----------------------------------------------------------
+
+TYPESCRIPT:
+
+    * Install TS:
+      - npm install --save-dev typescript
+      
+    * TS:
+      - npx create-react-app "application_name" typescript
+      - npm start
+      
